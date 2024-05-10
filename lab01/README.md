@@ -30,7 +30,8 @@ gdb:
 gdb ./int_hello
 ```
 
-```gdb
+```sh
+# in gdb's interface
 run < stdin.txt
 ```
 
